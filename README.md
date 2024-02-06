@@ -8,14 +8,3 @@ i'm looking to collaborate on creative coding projects
 
 reach me by emailing falseorganist@proton.me  
 pronouns: they/them  
-
-        .  
-       ,O,  
-      ,OOO,  
-'oooooOOOOOooooo'  
-  `OOOOOOOOOOO`  
-    `OOOOOOO`  
-    OOOO'OOOO  
-   OOO'   'OOO  
-  O'         'O  
-
