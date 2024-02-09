@@ -7,4 +7,4 @@ i'm currently learning Go
 i'm looking to collaborate on creative coding projects  
 
 reach me by emailing falseorganist@proton.me  
-pronouns: they/them  
+pronouns: any
